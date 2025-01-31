@@ -1,4 +1,3 @@
-```markdown
 # Linux Basics
 
 This repository provides an introduction to Linux basics, including essential commands, file system navigation, file permissions, process management, networking, and shell scripting. Whether you're new to Linux or need a refresher, this guide will help you get started.
