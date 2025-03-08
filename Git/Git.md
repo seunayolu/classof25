@@ -45,7 +45,7 @@ git config --global user.email "your.email@example.com"
 
 ## Basic Git Commands
 
-### `*git init*`
+### *`git init`*
 
 Initialize a new Git repository in your project directory.
 
