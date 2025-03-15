@@ -1,7 +1,7 @@
 # Task 2: The Mass Deployment
 
 ## Story Background
-After you saved the day with Dami’s single-site deployment at *Classof25 Inc.*, the boss was impressed—maybe too impressed. They’ve now tasked you with deploying *multiple* portfolio websites for a big client showcase, each using a different[Tooplate.com](https://www.tooplate.com/) template. Dami tried to help by scribbling a list of template URLs in `templates.txt`, but he didn’t know how to handle batches. The showcase is in two days, and the client wants a preview tomorrow. You need to whip up a shell script that processes multiple templates efficiently, confirms each deployment with you, and ensures everything’s set up right.
+After you saved the day with Dami’s single-site deployment at *Classof25 Inc.*, the boss was impressed—maybe too impressed. They’ve now tasked you with deploying *multiple* portfolio websites for a big client showcase, each using a different  [Tooplate.com](https://www.tooplate.com/) template. Dami tried to help by scribbling a list of template URLs in `templates.txt`, but he didn’t know how to handle batches. The showcase is in two days, and the client wants a preview tomorrow. You need to whip up a shell script that processes multiple templates efficiently, confirms each deployment with you, and ensures everything’s set up right.
 
 ## Objective
 Write a shell script that uses a `while or for` loop to deploy multiple Tooplate templates to unique subdirectories under `/var/www/html`, `if` conditionals to handle errors and checks, and the `read` command to prompt for user confirmation before each deployment.
