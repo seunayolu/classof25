@@ -72,7 +72,6 @@ Submit the following in your GitHub repo:
 2. **Write-Up**: A `REPORT.md` file (200-300 words) answering:
    - What was wrong with Dami’s original script?
    - How did your changes improve reliability and usability?
-   - Any assumptions you made (e.g., internet access, sudo rights)?
 
 ## Success Criteria
 
