@@ -11,7 +11,7 @@ You’re a DevOps engineer at *Classof25 Inc.*, a startup racing to launch its n
 Your mission is to take Dami’s poorly written shell script, fix it, and make it reliably:
 - Install Apache2.
 - Download an HTML template ZIP from Tooplate.com.
-- Unzip the template and deploy it to `/var/www/html`.
+- Unzip the template and deploy it to **`/var/www/html`**.
 - Improve the script with variables, positional arguments, conditionals, and error handling.
 
 ## Setup
